@@ -1,10 +1,7 @@
 test though.
 
 master-chg-01
-<<<<<<< HEAD
 master-chg2-local1
-=======
 master-chg-02-local2
->>>>>>> 86b71108826bc5dee863c82b1881d0c29e90ed41
 
 
